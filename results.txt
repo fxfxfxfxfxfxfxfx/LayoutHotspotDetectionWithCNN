@@ -19,3 +19,21 @@ Accuracy: 96.83333333333334
 False Alarms: 1
 Accuracy: 96.5
 False Alarms: 1
+Accuracy: 97.83333333333334
+False Alarms: 1
+Accuracy: 98.16666666666667
+False Alarms: 1
+Accuracy: 98.0
+False Alarms: 0
+Accuracy: 98.33333333333333
+False Alarms: 1
+Accuracy: 98.0
+False Alarms: 1
+Accuracy: 96.66666666666667
+False Alarms: 1
+Accuracy: 97.66666666666667
+False Alarms: 0
+Accuracy: 84.16666666666667
+False Alarms: 0
+Accuracy: 97.5
+False Alarms: 1
